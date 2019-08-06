@@ -1,2 +1,5 @@
 # Hello-World
-Just another Riepostory 
+
+4Hi Human!!
+
+Ian Rebecca and im 17 year old. I like Javascript!
